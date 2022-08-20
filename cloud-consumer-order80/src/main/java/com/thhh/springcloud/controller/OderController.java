@@ -79,7 +79,6 @@ public class OderController {
     }
 
     public static void main(String[] args) {
-        System.out.println("dev123");
         System.out.println("git test!");
         System.out.println("main123");
     }
