@@ -79,9 +79,6 @@ public class OderController {
     }
 
     public static void main(String[] args) {
-        System.out.println("git test!");
-        System.out.println("main123");
-        System.out.println("cccccc");
-        System.out.println("aaaaaa");
+        System.out.println("push something to GitHub");
     }
 }
