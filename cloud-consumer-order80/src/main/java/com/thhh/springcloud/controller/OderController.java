@@ -77,4 +77,8 @@ public class OderController {
         //调用restTemplate进行http网络调用，注意：uri只包含了IP+端口，不包含请求路径
         return restTemplate.getForObject(uri + "/payment/lb", String.class);
     }
+
+    public static void main(String[] args) {
+        System.out.println("git test!");
+    }
 }
