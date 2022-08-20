@@ -80,5 +80,7 @@ public class OderController {
 
     public static void main(String[] args) {
         System.out.println("push something to GitHub");
+        
+        System.out.println("pull something to local");
     }
 }
